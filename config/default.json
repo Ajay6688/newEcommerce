@@ -1,0 +1,16 @@
+{
+    "server": {
+        "port": 2000
+    },
+
+    "dbconfig": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "ecommerce"
+    },
+
+    "jwt": {
+        "secretKey": "thisIsASecretKey"
+    }
+}
